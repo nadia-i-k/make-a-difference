@@ -1,0 +1,27 @@
+[
+    {
+        "id": "nap",
+        "title": "Lack of National Data Security",
+        "shortDescription": "",
+        "description": "Recently the Bulgarian Revenue Agency (НАП) was proven to be lacking proper data security protection and hackers from around the world easily penetrated the agency's data and making it available to the public. This data breach impacts more than 5 Million citizens which is pretty much all the data stored by the agency. The leaked data includes very private and sensitive information about the citizens, including their income, ID, names, personal identification numbers, personal identification access codes, full address, phone number, email, etc. It also includes information about the country judges and a lot of other sensitive information.",
+        "action": "Suing in court the responsible people from the Bulgarian government and National Revenue Agency, seeking personal responsibility for not securing the data.",
+        "eligibility": "All Bulgarian citizens and foreigners who submitted any data to the Bulgarian National Revenue Agency.",
+        "imageUrl": "img/causes/1.jpg"
+    },
+    {
+        "id": "paypal",
+        "title": "PayPal Holds Funds of Users",
+        "description": "Many people complain that PayPal all of the sudden freezes their money without a reason and without the opportunity to withdraw them. The freeze often lasts for 6 months or even years which bankrupts many and also often leaves the frozen funds forgotten. When users want to oppose this, they cannot use the usual financial and banking laws because PayPal is not registered as a financial or banking institution and most of the time the user cannot do anything, especially by themselves.",
+        "action": "Suing PayPal on releasing the frozen funds and paying a compensation for the inconvenience caused.",
+        "eligibility": "All US citizens with fund being frozen by PayPal in the past 5 years.",
+        "imageUrl": "img/causes/2.jpg"
+    },
+    {
+        "id": "gdpr",
+        "title": "GDPR (Data Privacy) Infringement",
+        "description": "The European Union Data Privacy Protection law states that all companies storing or managing EU citizens' data have to comply with allowing users to easily unsubscribe or delete their data with one click, letting users choose what services they want to use and how, without having preselected agreement boxes and many other requirements. The wrongful companies have to pay high fines. Unfortunately many companies still do not comply with GDPR.",
+        "action": "Reporting wrongdoing companies to the European Commission for GDPR review and fines.",
+        "eligibility": "All EU citizens who noticed a company that does not comply with GDPR.",
+        "imageUrl": "img/causes/3.jpg"
+    }
+]
