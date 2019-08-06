@@ -24,7 +24,7 @@
         <v-app-bar app>
             <v-app-bar-nav-icon @click.stop="handleDrawlerClick"></v-app-bar-nav-icon>
 
-            <v-toolbar-title>Denand Your Rights</v-toolbar-title>
+            <v-toolbar-title>Make a Difference</v-toolbar-title>
 
             <v-spacer></v-spacer>
 
