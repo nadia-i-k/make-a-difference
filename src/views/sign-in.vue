@@ -22,7 +22,7 @@
 
       components: {},
 
-      getters: {
+      computed: {
         ...mapGetters([
             'session'
         ]),
