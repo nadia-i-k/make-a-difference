@@ -7,7 +7,7 @@
             </v-flex>
         </v-layout>
         <v-layout row wrap>
-            <v-flex xs12 md3 v-for="cause in causes" :key="cause.id">
+            <v-flex xs12 md4 lg3 v-for="cause in causes" :key="cause.id">
                 <v-card>
                     <v-img
                         height="200px"
