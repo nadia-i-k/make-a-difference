@@ -21,7 +21,7 @@
             </v-list>
         </v-navigation-drawer>
 
-        <v-app-bar app>
+        <v-app-bar app dark color="primary">
             <v-app-bar-nav-icon @click.stop="handleDrawlerClick"></v-app-bar-nav-icon>
 
             <v-toolbar-title>Make a Difference</v-toolbar-title>
