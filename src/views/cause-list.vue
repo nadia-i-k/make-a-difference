@@ -16,7 +16,6 @@
                     <v-card-title>{{ cause.title }}</v-card-title>
                     <v-card-text>{{ truncate(cause.description) }}</v-card-text>
                     <v-card-actions>
-                        <v-btn color="primary mr-1" small>Learn more</v-btn>
                         <v-btn @click="join(cause)" color="primary" small>Join</v-btn>
                     </v-card-actions>
                 </v-card>
@@ -53,7 +52,7 @@
 
             join(cause) {
                 this.session
-                    .getFile('/causes.txt', {decrypt: false})
+                    .getFile('/causes-v2.txt', {decrypt: true})
                     .then((input) => {
                         let data = {};
 
@@ -64,9 +63,9 @@
                         data[cause.id] = true;
 
                         return this.session.putFile(
-                            '/causes.txt',
+                            '/causes-v2.txt',
                             JSON.stringify(data),
-                            {encrypt: false}
+                            {encrypt: true}
                         );
                     })
                     .then(() => {
