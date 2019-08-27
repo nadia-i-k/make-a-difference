@@ -112,7 +112,7 @@ export default {
             if (this.username) {
                 this.session.signUserOut();
                 this.setUsername(null);
-                this.$router.push('home');
+                this.$router.push('/');
             }
             else {
                 this.session.redirectToSignIn();
