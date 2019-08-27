@@ -1,14 +1,9 @@
 {
-  "name": "dyr",
-  "short_name": "dyr",
+  "name": "Make a Difference",
+  "short_name": "Make a Difference",
   "icons": [
     {
-      "src": "./img/icons/android-chrome-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "./img/icons/android-chrome-512x512.png",
+      "src": "https://make-a-difference.technology-valley.com/img/logo.png",
       "sizes": "512x512",
       "type": "image/png"
     }
