@@ -7,7 +7,15 @@
                         <v-icon>mdi-star</v-icon>
                     </v-list-item-action>
                     <v-list-item-content>
-                        <v-list-item-title>Home</v-list-item-title>
+                        <v-list-item-title>All Causes</v-list-item-title>
+                    </v-list-item-content>
+                </v-list-item>
+                <v-list-item to="/my">
+                    <v-list-item-action>
+                        <v-icon>mdi-star</v-icon>
+                    </v-list-item-action>
+                    <v-list-item-content>
+                        <v-list-item-title>My Causes</v-list-item-title>
                     </v-list-item-content>
                 </v-list-item>
                 <v-list-item to="/sign-in">
