@@ -1,4 +1,5 @@
-# dyr
+# Make a Difference
+Choose the causes that affect you and you would like to fight for. It is time to demand your rights!
 
 ## Project setup
 ```
@@ -14,16 +15,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
